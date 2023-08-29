@@ -13,8 +13,8 @@
 
 <div align="center">
   <a href="https://github.com/JeanKick">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lukieyh&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukieyh&layout=compact&langs_count=7&theme=aura_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JeanKick&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanKick&layout=compact&langs_count=7&theme=aura_dark"/>
 </div>
 <div align="center" style="display: inline_block"><br>
   
